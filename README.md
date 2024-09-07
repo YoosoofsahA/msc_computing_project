@@ -1,6 +1,7 @@
 # MSc Computing Final Project
 
 **Project Overview**
+
 This repository contains the code and related resources for the MSc Computing final project titled "Predicting Extubation Failure in Intensive Care: The Development of a Novel, End-to-End Actionable and Interpretable Prediction System". The project was completed at Imperial College London in 2024.
 
 This thesis aims to explore the development of a novel, end-to-end actionable and interpretable prediction system that effectively leverages time-series data, empowering clinicians to confidently assess extubation failure risk. 
