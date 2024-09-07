@@ -1,0 +1,60 @@
+,Feature,Total Patients (mean ± SD or count),Extubation Success (mean ± SD or count),Extubation Failure (mean ± SD or count),P-value
+0,Weight,83.56 ± 24.20,83.29 ± 23.61,84.13 ± 25.36,0.258888178343421
+1,Height,169.20 ± 11.88,169.34 ± 12.11,168.91 ± 11.40,0.23813526524708875
+2,BMI,inf ± nan,inf ± nan,29.81 ± 12.35,
+3,Male,2728,1839,889,
+4,Female,1973,1318,655,
+5,Age ≤44,612,459,153,
+6,Age 45-54,685,464,221,
+7,Age 55-64,1077,741,336,
+8,Age 65-74,1148,750,398,
+9,Age ≥75,1179,743,436,
+10,Ethnicity (Asian),47,33,14,
+11,Ethnicity (Black),483,367,116,
+12,Ethnicity (Hispanic),126,91,35,
+13,Ethnicity (White),2859,1894,965,
+14,Ethnicity (Other),1186,772,414,
+15,Charlson Score (Mode),2.0,2.0,2.0,
+16,Inspired O2 Fraction,43.4 ± 11.8,42.4 ± 10.6,45.6 ± 13.8,<0.001
+17,Tidal Volume (observed),474.0 ± 163.9,475.3 ± 164.0,471.8 ± 163.7,0.382
+18,Tidal Volume (spontaneous),522.2 ± 1221.6,520.7 ± 1071.4,525.7 ± 1512.3,0.879
+19,Minute Volume,8.8 ± 9.3,8.7 ± 11.1,9.1 ± 3.0,0.053
+20,Peak Insp. Pressure,14.1 ± 30.2,13.6 ± 36.6,15.1 ± 6.9,0.051
+21,Mean Airway Pressure,7.5 ± 3.2,7.1 ± 2.7,8.2 ± 3.9,<0.001
+22,EtCO2,37.9 ± 7.6,38.2 ± 7.3,37.1 ± 8.2,0.047
+23,Heart Rate,85.0 ± 18.2,84.1 ± 17.7,86.6 ± 19.1,<0.001
+24,Respiratory Rate,19.1 ± 14.4,18.7 ± 17.0,20.0 ± 6.3,<0.001
+25,GCS - Eye Opening,4.0,4.0,4.0,
+26,GCS - Motor Response,6.0,6.0,6.0,
+27,O2 saturation pulseoxymetry,97.5 ± 3.0,97.8 ± 2.7,97.0 ± 3.5,<0.001
+28,Richmond-RAS Scale,-1.0,-1.0,-1.0,
+29,Ventilator Mode,11.0,11.0,11.0,
+30,Arterial Blood Pressure systolic,123.3 ± 24.4,124.3 ± 23.6,121.6 ± 25.8,<0.001
+31,Arterial Blood Pressure diastolic,60.5 ± 50.8,61.3 ± 62.2,58.8 ± 14.0,0.002
+32,Arterial Blood Pressure mean,81.5 ± 18.8,82.3 ± 18.4,80.1 ± 19.5,<0.001
+33,Temperature Fahrenheit,98.9 ± 2.0,98.9 ± 1.8,98.9 ± 2.2,0.99
+34,Hematocrit (serum),28.7 ± 4.7,28.7 ± 4.8,28.6 ± 4.6,0.736
+35,Sodium (serum),140.3 ± 5.8,140.1 ± 5.5,140.7 ± 6.5,0.094
+36,Potassium (serum),4.1 ± 0.6,4.0 ± 0.5,4.2 ± 0.6,0.001
+37,Arterial O2 pressure,112.7 ± 38.2,114.8 ± 36.4,108.7 ± 41.2,<0.001
+38,Arterial CO2 Pressure,41.0 ± 8.7,40.5 ± 8.2,42.0 ± 9.6,<0.001
+39,PH (Arterial),7.4 ± 0.1,7.4 ± 0.1,7.4 ± 0.1,<0.001
+40,Arterial Base Excess,406.9 ± 20137.4,612.8 ± 24723.3,0.9 ± 5.7,0.476
+41,Arterial O2 Saturation,96.4 ± 2.5,96.5 ± 2.6,96.1 ± 2.3,0.014
+42,Ionized Calcium,1.1 ± 0.1,1.1 ± 0.1,1.1 ± 0.1,0.021
+43,Lactic Acid,2.0 ± 2.5,1.6 ± 1.8,2.7 ± 3.3,<0.001
+44,Hemoglobin,9.6 ± 1.7,9.6 ± 1.7,9.5 ± 1.6,0.384
+45,WBC,12.0 ± 6.9,11.7 ± 6.9,12.8 ± 6.8,0.015
+46,Creatinine (serum),1.5 ± 1.4,1.5 ± 1.4,1.6 ± 1.3,0.088
+47,Glucose (serum),137.8 ± 49.7,135.9 ± 47.1,142.1 ± 55.1,0.04
+48,Platelet Count,168.7 ± 122.2,165.1 ± 114.8,178.3 ± 139.8,0.11
+49,CO2 production,186.1 ± 61.0,190.5 ± 66.8,177.9 ± 47.3,0.028
+50,Compliance,84.0 ± 46.0,90.3 ± 46.2,73.8 ± 44.0,<0.001
+51,Plateau Pressure,18.4 ± 5.1,17.3 ± 4.5,20.0 ± 5.4,<0.001
+52,Mixed Venous O2% Sat,64.3 ± 9.4,63.9 ± 8.8,65.0 ± 10.4,0.486
+53,PH (Venous),7.4 ± 0.1,7.4 ± 0.1,7.4 ± 0.1,0.068
+54,Venous CO2 Pressure,48.8 ± 10.5,47.4 ± 9.4,51.2 ± 11.9,0.022
+55,Venous O2 Pressure,54.3 ± 30.9,56.7 ± 33.3,50.3 ± 25.8,0.18
+56,Cardiac Output (CCO),5.4 ± 1.7,5.4 ± 1.7,5.5 ± 1.6,0.356
+57,Total Bilirubin,3.2 ± 5.5,3.1 ± 4.9,3.6 ± 6.7,0.418
+58,Negative Insp. Force,-34.1 ± 10.3,-36.2 ± 9.6,-31.7 ± 10.7,0.173

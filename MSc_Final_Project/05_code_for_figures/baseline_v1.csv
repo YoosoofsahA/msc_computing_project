@@ -1,0 +1,17 @@
+,Feature,Total Patients (mean ± SD or count),Extubation Success (mean ± SD or count),Extubation Failure (mean ± SD or count),P-value
+0,Weight,83.56 ± 24.20,83.29 ± 23.61,84.13 ± 25.36,0.258888178343421
+1,Height,169.20 ± 11.88,169.34 ± 12.11,168.91 ± 11.40,0.23813526524708875
+2,BMI,inf ± nan,inf ± nan,29.81 ± 12.35,
+3,Male,2728,1839,889,
+4,Female,1973,1318,655,
+5,Age ≤44,612,459,153,
+6,Age 45-54,685,464,221,
+7,Age 55-64,1077,741,336,
+8,Age 65-74,1148,750,398,
+9,Age ≥75,1179,743,436,
+10,Ethnicity (Asian),47,33,14,
+11,Ethnicity (Black),483,367,116,
+12,Ethnicity (Hispanic),126,91,35,
+13,Ethnicity (White),2859,1894,965,
+14,Ethnicity (Other),1186,772,414,
+15,Charlson Score (Mode),2.0,2.0,2.0,
