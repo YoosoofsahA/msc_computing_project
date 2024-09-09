@@ -45,4 +45,6 @@ This thesis aims to explore the development of a novel, end-to-end actionable an
 ├── 04_ensemble_methods/           # Scripts and code for implementing ensemble methods to improve prediction performance
 ├── 05_code_for_figures/           # Code used to generate the figures and visualizations in the thesis
 └── README.md                      # Project documentation
+```
 
+Note that no data files (raw or derived) have been uploaded due to MIMIC requirements.
