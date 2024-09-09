@@ -1,0 +1,1 @@
+{"num_leaves": 100, "max_depth": 8, "learning_rate": 0.0001, "min_data_in_leaf": 90, "lambda_l2": 0.0001, "sampling_method": "undersample"}
